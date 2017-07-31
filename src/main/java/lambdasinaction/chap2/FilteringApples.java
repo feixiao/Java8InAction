@@ -2,6 +2,12 @@ package lambdasinaction.chap2;
 
 import java.util.*;
 
+// 编译
+// javac FilteringApples.java
+
+// 运行
+// cd ../../
+// java lambdasinaction.chap2.FilteringApples 
 public class FilteringApples{
 
 	public static void main(String ... args){
